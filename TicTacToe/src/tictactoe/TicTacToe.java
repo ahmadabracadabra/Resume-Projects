@@ -3,7 +3,7 @@ package tictactoe;
 
 import java.util.Scanner;
 
-//NAME: Ahmad Abraham
+//Made in NetBeans
 /* This program allows the user to play TicTacToe. 
 Enter the number of the cell you wish to place your token. 
 The token alternates between 'X' and 'O' after each turn.
